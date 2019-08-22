@@ -1,0 +1,1 @@
+# Adapte_the_Polling_To_the_Pushing
